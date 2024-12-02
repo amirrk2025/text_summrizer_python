@@ -45,24 +45,3 @@ if __name__ == "__main__":
     if summary:
         print("\nSummary:\n")
         print(summary)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
